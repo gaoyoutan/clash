@@ -16,7 +16,29 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
+# Hamivideo
+DOMAIN-SUFFIX,cdn.hinet.net,Taiwan
+
+# 4GTV & Hamivideo
+DOMAIN-SUFFIX,4gtv.tv,Proxy
+DOMAIN-SUFFIX,hinet.net,Proxy
+DOMAIN-SUFFIX,ofiii.com,Proxy
+
+# YouTube
+DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,youtube.com,Proxy
+
+# MytvSuper
+DOMAIN-SUFFIX,mytvsuper.com,Proxy
+DOMAIN-SUFFIX,tvb.com,Proxy
+
+# 以下规则可自行测试能否直连，不能直连的话设置为海外代理
+DOMAIN-SUFFIX,livednow.com,Proxy
+DOMAIN-SUFFIX,livednow.org,Proxy
+DOMAIN-SUFFIX,wx.sb,Proxy
+
 # 其他网站
+DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
