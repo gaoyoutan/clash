@@ -38,6 +38,10 @@ DOMAIN-SUFFIX,livednow.org,Proxy
 DOMAIN-SUFFIX,wx.sb,Proxy
 
 # 其他网站
+DOMAIN-SUFFIX,roblox.com,PROXY
+DOMAIN-SUFFIX,rprxy.xyz,PROXY
+DOMAIN-SUFFIX,robloxlabs.com,PROXY
+DOMAIN-SUFFIX,rblxstatic.com,PROXY
 DOMAIN-SUFFIX,freedidi.com
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
